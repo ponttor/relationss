@@ -25,9 +25,7 @@ function App() {
           </MyTop>
         </div>
         <a
-          // href="http://infoprotector.ru/online/download"
-          href="https://www.dropbox.com/s/5opn71g1xexsx01/%D0%AD%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4%2001.01.ipr?dl=0"
-
+          href="http://infoprotector.ru/online/download"
           role="button" 
           class="btn btn-secondary btn-sm">Скачать</a>
       </div>
