@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/relationss/static/css/main.37cc5b1f.css",
-    "main.js": "/relationss/static/js/main.eb829d5b.js",
+    "main.js": "/relationss/static/js/main.528b3567.js",
     "static/media/movie.jpg": "/relationss/static/media/movie.31cb8cf5fc8bebead0f2.jpg",
     "index.html": "/relationss/index.html",
     "main.37cc5b1f.css.map": "/relationss/static/css/main.37cc5b1f.css.map",
-    "main.eb829d5b.js.map": "/relationss/static/js/main.eb829d5b.js.map"
+    "main.528b3567.js.map": "/relationss/static/js/main.528b3567.js.map"
   },
   "entrypoints": [
     "static/css/main.37cc5b1f.css",
-    "static/js/main.eb829d5b.js"
+    "static/js/main.528b3567.js"
   ]
 }
