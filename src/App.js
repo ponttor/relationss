@@ -2,7 +2,6 @@ import MyTop from './components/UI/mytop/MyTop';
 import './styles/App.css';
 import movie from './images/movie.jpg';
 import clock from './images/clock.png';
-import { Button } from 'bootstrap';
 
 
 function App() {
@@ -10,7 +9,7 @@ function App() {
     <div className="App">
       <div className="container">
         <div>
-            <MyTop class="top h4">«Пространство отношений»</MyTop>
+        <h1>«Пространство отношений»</h1>
             <MyTop class="top">Курс от Русской Школы Гештальта и Heim Studio</MyTop>
         </div>
         <div>
@@ -31,7 +30,7 @@ function App() {
         </a>
       </div>
 
-      <MyTop class="top mt-5 h3">1-е Пространство контакта</MyTop>
+      <h4 className="mt-5">1-е Пространство контакта</h4>
 
       <p class="mt-4">Эпизод 1. Мужчина и женщина на границе контакта</p>
       <div class='d-flex'>
@@ -75,7 +74,7 @@ function App() {
         </a>
       </div>
 
-      <MyTop class="top mt-5 h3">2-е Пространство интимности</MyTop>
+      <h4 className="mt-5">2-е Пространство интимности</h4>
 
       <p class="mt-4">Эпизод 1. Близость без цензуры</p>
       <div class='d-flex'>
