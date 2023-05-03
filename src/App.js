@@ -27,47 +27,111 @@ function App() {
         <a
           href="http://infoprotector.ru/online/download"
           role="button" 
-          class="btn btn-secondary btn-sm">Скачать</a>
+          class="btn btn-secondary btn-sm">Скачать
+        </a>
       </div>
+
       <MyTop class="top mt-5 h3">1-е Пространство контакта</MyTop>
 
       <p class="mt-4">Эпизод 1. Мужчина и женщина на границе контакта</p>
       <div class='d-flex'>
-
-      <a
-              href="https://www.dropbox.com/s/5opn71g1xexsx01/%D0%AD%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4%2001.01.ipr?dl=0"
-              role="button" 
-              class="m-4 btn btn-success btn-sm">Видео</a>
-     <a
-              href="https://www.dropbox.com/s/6a97a25cz91djeh/1-1.pdf?dl=0"
-              role="button" 
-              class="m-4 d-inline-block btn btn-success btn-sm">Практика</a>
-</div>
+        <a
+          href="https://www.dropbox.com/s/5opn71g1xexsx01/%D0%AD%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4%2001.01.ipr?dl=0"
+          role="button" 
+          class="m-4 btn btn-success btn-sm">Видео
+        </a>
+        <a
+          href="https://www.dropbox.com/s/6a97a25cz91djeh/1-1.pdf?dl=0"
+          role="button" 
+          class="m-4 d-inline-block btn btn-success btn-sm">Практика
+        </a>
+     </div>
 
       <p class="mt-4">Эпизод 2. Ритмы парности.</p>
       <div class='d-flex'>
-      <a
-              href="https://www.dropbox.com/s/be43zok70ed8jop/%D0%AD%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4%2001.02.ipr?dl=0"
-              role="button" 
-              class="m-4 btn btn-success btn-sm">Видео</a>
-                        <a
-              href="https://www.dropbox.com/s/6dyr08fdpmjz1ok/1-2.pdf?dl=0"
-              role="button" 
-              class="m-4 d-inline-block btn btn-success btn-sm">Практика</a>
-</div>
+        <a
+          href="https://www.dropbox.com/s/be43zok70ed8jop/%D0%AD%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4%2001.02.ipr?dl=0"
+          role="button" 
+          class="m-4 btn btn-success btn-sm">Видео
+        </a>
+        <a
+          href="https://www.dropbox.com/s/6dyr08fdpmjz1ok/1-2.pdf?dl=0"
+          role="button" 
+          class="m-4 d-inline-block btn btn-success btn-sm">Практика
+        </a>
+      </div>
 
       <p class="mt-4">Эпизод 3. Присутствие: Я – Ты в «здесь и сейчас».</p>
       <div class='d-flex'>
+        <a
+          href="https://www.dropbox.com/s/9fkzdeq45y8bt7i/%D0%AD%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4%2001.03.ipr?dl=0"
+          role="button" 
+          class="m-4 btn btn-success btn-sm">Видео
+        </a>
+        <a
+          href="https://www.dropbox.com/s/t2rdp5uo0dge63y/1-3.pdf?dl=0"
+          role="button" 
+          class="m-4 d-inline-block btn btn-success btn-sm">Практика
+        </a>
+      </div>
 
-      <a
-              href="https://www.dropbox.com/s/9fkzdeq45y8bt7i/%D0%AD%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4%2001.03.ipr?dl=0"
-              role="button" 
-              class="m-4 btn btn-success btn-sm">Видео</a>
-                        <a
-              href="https://www.dropbox.com/s/t2rdp5uo0dge63y/1-3.pdf?dl=0"
-              role="button" 
-              class="m-4 d-inline-block btn btn-success btn-sm">Практика</a>
-</div>
+      <MyTop class="top mt-5 h3">2-е Пространство интимности</MyTop>
+
+      <p class="mt-4">Эпизод 1. Близость без цензуры</p>
+      <div class='d-flex'>
+        <a
+          href="https://www.dropbox.com/s/dx92vsa75rhkvme/%D0%AD%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4%2002.01.ipr?dl=0"
+          role="button" 
+          class="m-4 btn btn-success btn-sm">Видео
+        </a>
+        <a
+          href="https://www.dropbox.com/s/gosqjur00chdtln/2-1.pdf?dl=0"
+          role="button" 
+          class="m-4 d-inline-block btn btn-success btn-sm">Практика
+        </a>
+     </div>
+
+      <p class="mt-4">Эпизод 2. Вкус к чувственности</p>
+      <div class='d-flex'>
+        <a
+          href="https://www.dropbox.com/s/gs3n1o60mqb0wlk/%D0%AD%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4%2002.02.ipr?dl=0"
+          role="button" 
+          class="m-4 btn btn-success btn-sm">Видео
+        </a>
+        <a
+          href="https://www.dropbox.com/s/fv042c5gqctrso7/2-2.pdf?dl=0"
+          role="button" 
+          class="m-4 d-inline-block btn btn-success btn-sm">Практика
+        </a>
+     </div>
+
+     <p class="mt-4">Эпизод 3. Сексуальность: прыжок из Я в Мы</p>
+      <div class='d-flex'>
+        <a
+          href="https://www.dropbox.com/s/3khzcw9f4uzd8dq/%D0%AD%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4%2002.03.ipr?dl=0"
+          role="button" 
+          class="m-4 btn btn-success btn-sm">Видео
+        </a>
+        <a
+          href="https://www.dropbox.com/s/af2a5w8hh6c9uhc/2-3.pdf?dl=0"
+          role="button" 
+          class="m-4 d-inline-block btn btn-success btn-sm">Практика
+        </a>
+      </div>
+
+      <p class="mt-4">Эпизод 4. Интимность как атмосфера</p>
+      <div class='d-flex'>
+        <a
+          href="https://www.dropbox.com/s/sg54j5no2nues9i/%D0%AD%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4%2002.04.ipr?dl=0"
+          role="button" 
+          class="m-4 btn btn-success btn-sm">Видео
+        </a>
+        <a
+          href="https://www.dropbox.com/s/diwxc11d3y2pgoe/2-4.pdf?dl=0"
+          role="button" 
+          class="m-4 d-inline-block btn btn-success btn-sm">Практика
+        </a>
+      </div>
 
 
 
