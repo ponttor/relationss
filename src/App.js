@@ -132,7 +132,58 @@ function App() {
         </a>
       </div>
 
+      <h4 className="mt-5">3-е Пространство совместности</h4>
 
+      <p class="mt-4">Эпизод 1. Пространство «Мы»</p>
+      <div class='d-flex'>
+        <a
+          href="https://www.dropbox.com/s/k8z445r4j26imvo/%D0%AD%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4%2003.01.ipr?dl=0"
+          role="button" 
+          class="m-4 btn btn-success btn-sm">Видео
+        </a>
+        <a
+          href="https://www.dropbox.com/s/vnwg2qsxzr2x1oi/3-1.pdf?dl=0"
+          role="button" 
+          class="m-4 d-inline-block btn btn-success btn-sm">Практика
+        </a>
+      </div>
+
+      <p class="mt-4">Эпизод 2. Родительское наследие</p>
+      <div class='d-flex'>
+        <a
+          href="https://www.dropbox.com/s/dqb8e1ddsg9i39m/%D0%AD%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4%2003.02.ipr?dl=0"
+          role="button" 
+          class="m-4 btn btn-success btn-sm">Видео
+        </a>
+        <a
+          href="https://www.dropbox.com/s/oio9mtlufkhjaum/3-2.pdf?dl=0"
+          role="button" 
+          class="m-4 d-inline-block btn btn-success btn-sm">Практика
+        </a>
+      </div>
+
+      <p class="mt-4">Эпизод 3. Привязанность как способность</p>
+      <div class='d-flex'>
+        <a
+          href="https://www.dropbox.com/s/ls4saaky8xnv35s/%D0%AD%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4%2003.03.ipr?dl=0"
+          role="button" 
+          class="m-4 btn btn-success btn-sm">Видео
+        </a>
+        <a
+          href="https://www.dropbox.com/s/hecaguaffdbvjpf/3-3.pdf?dl=0"
+          role="button" 
+          class="m-4 d-inline-block btn btn-success btn-sm">Практика
+        </a>
+      </div>
+
+      <p class="mt-4">Эпизод 4. Иллюзия о сказке быть вместе</p>
+      <div class='d-flex'>
+        <a
+          href="https://www.dropbox.com/s/taqtdknnmm64fvh/%D0%AD%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4%2003.04.ipr?dl=0"
+          role="button" 
+          class="m-4 btn btn-success btn-sm">Видео
+        </a>
+      </div>
 
      
     </div>
