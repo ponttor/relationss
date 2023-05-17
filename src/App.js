@@ -141,7 +141,7 @@ function App() {
           role="button" 
           class="m-4 btn btn-success btn-sm">Видео
         </a>
-        <a 
+        <a  
           href="https://www.dropbox.com/s/vnwg2qsxzr2x1oi/3-1.pdf?dl=0"
           role="button" 
           class="m-4 d-inline-block btn btn-success btn-sm">Практика
